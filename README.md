@@ -1,16 +1,21 @@
-## Hi there 👋
+# Jeein Orozco 
+Full Stack, desarrollador backend. Las tecnologias con las que he trabajado son: 
 
-<!--
-**jeeinog/jeeinog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Lenguajes de programacion
 
-Here are some ideas to get you started:
+- Javascript
+- Python
+- Java
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Frameworks
+
+- React
+- Nextjs
+- Astro
+- Django
+
+## Bases de Datos
+- MongoDB
+- SQL
+- PostgreSQL
+- Sequelize
