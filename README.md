@@ -5,7 +5,6 @@ Full Stack, desarrollador backend. Las tecnologias con las que he trabajado son:
 
 - Javascript
 - Python
-- Java
 
 ## Frameworks
 
